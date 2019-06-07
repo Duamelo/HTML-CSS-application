@@ -172,6 +172,7 @@ height:23px;
 {
 width:inherit;
 height:auto;
+
 }
 #footer h3 a,#footer h3 a:visited
 {
@@ -203,16 +204,14 @@ color:#FFF;
 	font-weight: bold;
 	padding-top: 18px;
 	font-size: 15px;
-	padding-left:13px;
+	padding-left:10px;
 	padding-right:13px;
 }
 #menu a:hover{
 	background-image:url(images/link_background.png);
 	background-repeat:repeat-x;
 }
-/*#content p
-{
-	}*/
+
 html, body {
 text-align: center;
 }

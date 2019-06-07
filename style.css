@@ -123,7 +123,7 @@ padding-left:12px;
 padding-top:4px;
 height:30px;
 text-align:left;
-background-image:url(images/leftmenu_link.png);
+/*background-image:url(images/leftmenu_link.png);*/
 background-repeat:repeat-x;
 margin-top:5px;
 color:#FFFFFF;
@@ -148,14 +148,14 @@ padding-bottom:5px;
 }
 #content_top
 {
-	background-image:url(images/main_top.png);
+	/*background-image:url(images/main_top.png);*/
 	background-repeat:no-repeat;
 	width:689px;
 	height:23px;
 }
 #content_main
 {
-background-image:url(./container.png);
+/*background-image:url(container.png);*/
 background-repeat:repeat-y;
 width:659px;
 padding-left:15px;
@@ -163,7 +163,7 @@ padding-right:15px;
 }
 #content_bottom
 {
-background-image:url(images/main_bottom.png);
+background-image:url(container.png);
 background-repeat:no-repeat;
 width:689px;
 height:23px;

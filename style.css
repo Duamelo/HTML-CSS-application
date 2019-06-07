@@ -65,6 +65,7 @@ width:960px;
 height:54px;
 float:left;
 clear:both;
+background-color: #300;
 }
 #leftmenu
 {
@@ -154,7 +155,7 @@ padding-bottom:5px;
 }
 #content_main
 {
-background-image:url(images/main_back.png);
+background-image:url(./container.png);
 background-repeat:repeat-y;
 width:659px;
 padding-left:15px;

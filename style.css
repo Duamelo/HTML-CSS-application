@@ -163,10 +163,12 @@ padding-right:15px;
 }
 #content_bottom
 {
+position: relative;
+top: 23px;
 background-image:url(container.png);
 background-repeat:no-repeat;
 width:689px;
-height:300px;
+height:390px;
 }
 #footer
 {

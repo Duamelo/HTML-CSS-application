@@ -65,8 +65,10 @@ width:960px;
 height:54px;
 clear:both;
 background-color: #300;
-position: relative;
-right: 10%;
+}
+#menu ul{
+	position: relative;
+	right: -10%;
 }
 #leftmenu
 {

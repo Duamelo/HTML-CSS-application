@@ -59,13 +59,14 @@ color:#300;
 #menu
 {
 display:block;
-float:right;
+float:left;
 clear:both;
 width:960px;
 height:54px;
-float:right;
 clear:both;
 background-color: #300;
+position: relative;
+right: 10%;
 }
 #leftmenu
 {

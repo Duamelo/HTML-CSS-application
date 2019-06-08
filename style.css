@@ -220,3 +220,28 @@ html, body {
 text-align: center;
 }
 p {text-align: left;}
+
+
+
+
+
+
+#leftmenu_bottom:hover{
+    border-top: 5px solid #e44d26;
+    background-color: rgba(228, 77, 38, 0.15);
+}
+.menu-css:hover{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(000, 112, 192, 0.15);
+}
+.menu-js:hover{
+    border-top: 5px solid #f1dc4f;
+    background-color: RGBa(241, 211, 79, 0.15);
+}
+.menu-contact:hover{
+    border-top: 5px solid #BBB;
+    background-color: RGBa(220, 220, 220, 0.15);
+}
+nav li:hover a{
+    padding:15px 30px 20px 30px;
+}
